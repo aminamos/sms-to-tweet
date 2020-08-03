@@ -4,7 +4,7 @@
 
 Some time ago, Twitter allowed users to add a phone number and send tweets from that verified number. This functionality was [removed](https://mashable.com/article/twitter-sms-changes-account-removals/) but I knew that tweets could still be produced using [Twitter's API](https://developer.twitter.com/en/docs).
 
-Twilio provides a phone number service for individuals and organizations at various sizes. I was able to test and complete this project using their free trial credit amounts.
+Twilio provides a phone number service for individuals and organizations at various sizes. I was able to test and complete this project using their free trial credit.
 
 ## Architecture
 
